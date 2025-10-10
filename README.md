@@ -14,4 +14,13 @@ Write a program that asks for the user's name on the console and after the user 
 **ExerciseFour:**
 Write a program that displays the result of the following arithmetic operation on the screen.
 
-by: Abnersilva m
+**ExerciseFive:**
+Write a program that asks the user for the number of hours worked and the hourly rate. It should then display the corresponding pay rate on the screen.
+
+**ExerciseSix:**
+Write a program that reads a positive integer, , entered by the user and then displays the sum of all integers from 1 to . The sum of the
+
+
+
+
+by:Abnersilva
