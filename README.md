@@ -5,6 +5,8 @@ Learning Python from scratch with exercises
 .
 .
  
+.k
+.k
  **exercise one:**
  Write a program that displays the string Hello World! on the screen.
 
